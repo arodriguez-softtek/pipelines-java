@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/DevOpsDemoPipeline/DevOpsDemoPipelines/_apis/build/status/arodriguez-softtek.pipelines-java?branchName=master)](https://dev.azure.com/DevOpsDemoPipeline/DevOpsDemoPipelines/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
